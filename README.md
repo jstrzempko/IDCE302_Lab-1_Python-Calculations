@@ -1,4 +1,4 @@
-## Lab 1 – Calculations with Python
+# Lab 1 – Calculations with Python
 
 The code in this script calculates agricultural land and rain runoff for a 1000 square foot agricultural plot in Kenya that receives a 1 inch rainfall. It was completed as Lab 1 Calculations with Python for the Clark University course IDCE 302 Python Programming taught by Professor Shadrock Roberts. 
 
