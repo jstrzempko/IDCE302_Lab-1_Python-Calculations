@@ -8,4 +8,4 @@ No major errors were encountered in the creation of this script.
 
 # Code
 
-Users can download and run the python code easily in a Colab notebook. The code will print the provided inputs as well as the resulting output when run. If problems are encountered, user can contact Jess Strzempko at JeStrzempko@clarku.edu for more help and further information. 
+Users can download and run the python code in a Colab notebook. The code will print the provided inputs as well as the resulting output when run. If problems are encountered, users can contact Jess Strzempko at JeStrzempko@clarku.edu for more help and further information. 
